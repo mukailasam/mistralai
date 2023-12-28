@@ -16,9 +16,8 @@ you can change the value of other element in the file but not must, only if you 
  
 
 ### Install and RUN
-`
+
 - git  clone https://github.com/mukailasam/mistralai
 - cd mistralai
 - cd cmd
 - go run main.go
-`
