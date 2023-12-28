@@ -1,3 +1,3 @@
 ## Mistralai
 
-A client to interact with Mistralai API
+A simple to use MISTRAL AI client for interacting with Mistralai API
